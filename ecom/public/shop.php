@@ -5,7 +5,7 @@
     <!-- Page Content -->
     <div class="container">
 
-        <!-- Jumbotron Header -->
+       
         <header>
            <h1>Shop</h1>
         </header>
@@ -27,11 +27,7 @@
 </div>
     <!-- /.container -->
  <?php include(TEMPLATE_FRONT . DS . "footer.php"); ?>
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+  
 
 </body>
 
